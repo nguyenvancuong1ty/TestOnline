@@ -1,0 +1,15 @@
+E:\Dotnet-vs\TestOnline\TestOnline_Data\bin\Debug\net8.0\TestOnline_Data.deps.json
+E:\Dotnet-vs\TestOnline\TestOnline_Data\bin\Debug\net8.0\TestOnline_Data.runtimeconfig.json
+E:\Dotnet-vs\TestOnline\TestOnline_Data\bin\Debug\net8.0\TestOnline_Data.dll
+E:\Dotnet-vs\TestOnline\TestOnline_Data\bin\Debug\net8.0\TestOnline_Data.pdb
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.csproj.AssemblyReference.cache
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.AssemblyInfoInputs.cache
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.AssemblyInfo.cs
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.csproj.CoreCompileInputs.cache
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.sourcelink.json
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.dll
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\refint\TestOnline_Data.dll
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.pdb
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\TestOnline_Data.genruntimeconfig.cache
+E:\Dotnet-vs\TestOnline\TestOnline_Data\obj\Debug\net8.0\ref\TestOnline_Data.dll

@@ -2,7 +2,7 @@
 
 namespace TestOnline_Data.Models
 {
-    public class Role : IdentityRole<Guid>
+    public class Role : IdentityRole<string>
     {
 
     }
