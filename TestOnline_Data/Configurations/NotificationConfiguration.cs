@@ -9,6 +9,7 @@ namespace TestOnline_Data.Configurations
         public void Configure(EntityTypeBuilder<Notification> builder)
         {
             builder.HasKey(x => x.Id);
+            builder.Property(u => u.Id).HasMaxLength(256);
         }
     }
 }

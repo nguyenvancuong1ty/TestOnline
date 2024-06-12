@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection.Emit;
 using TestOnline_Data.Configurations;
+using TestOnline_Data.Extensions;
 using TestOnline_Data.Models;
 
 namespace TestOnline_Data.EF
@@ -41,7 +43,7 @@ namespace TestOnline_Data.EF
             builder.ApplyConfiguration(new NotificationConfiguration());
             builder.ApplyConfiguration(new NotificationToClassConfiguration());
 
-
+            builder.Seed();
             //
 
 

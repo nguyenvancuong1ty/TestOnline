@@ -4,14 +4,88 @@
     "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\TestOnline_View.csproj": {}
   },
   "projects": {
-    "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\TestOnline_View.csproj": {
+    "E:\\Dotnet-vs\\TestOnline\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\TestOnline_View.csproj",
-        "projectName": "TestOnline_View",
-        "projectPath": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\TestOnline_View.csproj",
+        "projectUniqueName": "E:\\Dotnet-vs\\TestOnline\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "E:\\Dotnet-vs\\TestOnline\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\T490\\.nuget\\packages\\",
-        "outputPath": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\obj\\",
+        "outputPath": "E:\\Dotnet-vs\\TestOnline\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\T490\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Dotnet-vs\\TestOnline\\TestOnline_Data\\TestOnline_Data.csproj": {
+                "projectPath": "E:\\Dotnet-vs\\TestOnline\\TestOnline_Data\\TestOnline_Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Dotnet-vs\\TestOnline\\TestOnline_Data\\TestOnline_Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dotnet-vs\\TestOnline\\TestOnline_Data\\TestOnline_Data.csproj",
+        "projectName": "TestOnline_Data",
+        "projectPath": "E:\\Dotnet-vs\\TestOnline\\TestOnline_Data\\TestOnline_Data.csproj",
+        "packagesPath": "C:\\Users\\T490\\.nuget\\packages\\",
+        "outputPath": "E:\\Dotnet-vs\\TestOnline\\TestOnline_Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T490\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +118,113 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\TestOnline_View.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\TestOnline_View.csproj",
+        "projectName": "TestOnline_View",
+        "projectPath": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\TestOnline_View.csproj",
+        "packagesPath": "C:\\Users\\T490\\.nuget\\packages\\",
+        "outputPath": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\T490\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Dotnet-vs\\TestOnline\\Application\\Application.csproj": {
+                "projectPath": "E:\\Dotnet-vs\\TestOnline\\Application\\Application.csproj"
+              },
+              "E:\\Dotnet-vs\\TestOnline\\TestOnline_Data\\TestOnline_Data.csproj": {
+                "projectPath": "E:\\Dotnet-vs\\TestOnline\\TestOnline_Data\\TestOnline_Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

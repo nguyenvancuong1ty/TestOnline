@@ -1,8 +1,19 @@
+using Application;
+using Application.Class;
+using Microsoft.EntityFrameworkCore;
+using TestOnline_Data.EF;
+
 var builder = WebApplication.CreateBuilder(args);
 
+var services = builder.Services;
 // Add services to the container.
-builder.Services.AddControllersWithViews();
-
+services.AddControllersWithViews();
+services.AddHttpContextAccessor();
+services.AddDbContext<AppDBContext>(options =>
+        options.UseSqlServer("Data Source=DESKTOP-FLF2O2F;Database=TestOnline;Integrated Security=True;Trust Server Certificate=True"));
+services.AddAutoMapper(typeof(MapperProfiles));
+services.AddOptions();
+services.AddTransient<IClassService, ClassService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

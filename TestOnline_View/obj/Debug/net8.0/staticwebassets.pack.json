@@ -5,12 +5,32 @@
       "PackagePath": "staticwebassets\\TestOnline_View.bundle.scp.css"
     },
     {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\js\\WOW.js",
+      "PackagePath": "staticwebassets\\js\\WOW.js"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\js\\dashmix.app.min.js",
+      "PackagePath": "staticwebassets\\js\\dashmix.app.min.js"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\js\\lib\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery.min.js"
     },
     {
       "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\js\\site.js",
@@ -243,6 +263,382 @@
     {
       "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\Zhao Lusi-64552fa9ba385.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\Zhao Lusi-64552fa9ba385.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\avatar0.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\avatar0.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\avatar1.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\avatar2.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\avt-642287ecf33b2.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\avt-642287ecf33b2.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\avt-642a79bfbf4dd.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\avt-642a79bfbf4dd.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\avtar.png",
+      "PackagePath": "staticwebassets\\media\\avatars\\avtar.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\thanhsang.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\thanhsang.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\trieulotu-645084dc33476.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\trieulotu-645084dc33476.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\avatars\\trieulotu-6454d0200cea9.jpg",
+      "PackagePath": "staticwebassets\\media\\avatars\\trieulotu-6454d0200cea9.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\favicons\\apple-touch-icon-180x180.png",
+      "PackagePath": "staticwebassets\\media\\favicons\\apple-touch-icon-180x180.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\favicons\\favicon-192x192.png",
+      "PackagePath": "staticwebassets\\media\\favicons\\favicon-192x192.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\favicons\\favicon.png",
+      "PackagePath": "staticwebassets\\media\\favicons\\favicon.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\bg_minecraft.png",
+      "PackagePath": "staticwebassets\\media\\photos\\bg_minecraft.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\dhsg_1.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\dhsg_1.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\dhsg_2.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\dhsg_2.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\dhsg_3.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\dhsg_3.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo1.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo1.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo10.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo10.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo10@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo10@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo11.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo11.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo11@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo11@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo12.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo12.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo12@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo12@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo13.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo13.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo13@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo13@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo14.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo14.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo14@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo14@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo15.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo15.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo15@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo15@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo16.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo16.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo16@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo16@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo17.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo17.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo17@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo17@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo18.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo18.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo18@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo18@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo19.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo19.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo19@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo19@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo1@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo1@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo2.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo2.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo20.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo20.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo20@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo20@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo21.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo21.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo21@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo21@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo22.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo22.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo22@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo22@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo23.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo23.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo23@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo23@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo24.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo24.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo24@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo24@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo25.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo25.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo25@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo25@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo26.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo26.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo26@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo26@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo27.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo27.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo27@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo27@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo28.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo28.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo28@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo28@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo29.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo29.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo29@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo29@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo2@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo2@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo3.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo30.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo30.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo30@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo30@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo3@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo3@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo4.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo4@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo4@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo5.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo5.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo5@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo5@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo6.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo6.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo6@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo6@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo7.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo7.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo7@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo7@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo8.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo8.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo8@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo8@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo9.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo9.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\photo9@2x.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\photo9@2x.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\photos\\study.jpg",
+      "PackagePath": "staticwebassets\\media\\photos\\study.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\svg\\empty_data.png",
+      "PackagePath": "staticwebassets\\media\\svg\\empty_data.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\svg\\google-icon.svg",
+      "PackagePath": "staticwebassets\\media\\svg\\google-icon.svg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\svg\\no-data.jpg",
+      "PackagePath": "staticwebassets\\media\\svg\\no-data.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\bg_dashboard.jpg",
+      "PackagePath": "staticwebassets\\media\\various\\bg_dashboard.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\bg_side_overlay_header.jpg",
+      "PackagePath": "staticwebassets\\media\\various\\bg_side_overlay_header.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\landing-promo-hero.png",
+      "PackagePath": "staticwebassets\\media\\various\\landing-promo-hero.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\landing.png",
+      "PackagePath": "staticwebassets\\media\\various\\landing.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\landing_1.jpg",
+      "PackagePath": "staticwebassets\\media\\various\\landing_1.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\landing_1.png",
+      "PackagePath": "staticwebassets\\media\\various\\landing_1.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\landing_2.jpg",
+      "PackagePath": "staticwebassets\\media\\various\\landing_2.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\landing_2.png",
+      "PackagePath": "staticwebassets\\media\\various\\landing_2.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\landing_3.jpg",
+      "PackagePath": "staticwebassets\\media\\various\\landing_3.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\landing_3.png",
+      "PackagePath": "staticwebassets\\media\\various\\landing_3.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\promo-create-test.png",
+      "PackagePath": "staticwebassets\\media\\various\\promo-create-test.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\promo-questions.png",
+      "PackagePath": "staticwebassets\\media\\various\\promo-questions.png"
+    },
+    {
+      "Id": "E:\\Dotnet-vs\\TestOnline\\TestOnline_View\\wwwroot\\media\\various\\promo-users.png",
+      "PackagePath": "staticwebassets\\media\\various\\promo-users.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestOnline_View.Microsoft.AspNetCore.StaticWebAssets.props",
