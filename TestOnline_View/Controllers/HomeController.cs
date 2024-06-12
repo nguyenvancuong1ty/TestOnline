@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using TestOnline_View.Models;
 
@@ -15,6 +15,7 @@ namespace TestOnline_View.Controllers
 
         public IActionResult Index()
         {
+            
             return View();
         }
 

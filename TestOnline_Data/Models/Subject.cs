@@ -9,9 +9,8 @@
         public int NumberLectureSessions { get; set; }
         public bool Status { get; set; }
 
-        public List<Classes> Classes { get; set; }
+        public Classes? Classes { get; set; }
         public List<Exam> Exams { get; set; }
-        public List<Question> Question { get; set; }
         public List<Chapter> Chapters { get; set; }
     }
 }

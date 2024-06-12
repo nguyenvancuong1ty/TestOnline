@@ -1,22 +1,66 @@
-html {
-  font-size: 14px;
+﻿html {
+    font-size: 14px;
+}
+
+* {
+    text-decoration: none;
+    list-style: none;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 500px;
+}
+
+:root {
+    --bg-color-custom--light: #f8f9fc !important;
+    --bg-color-custom--dark: #262b36 !important
+}
+
+
+
+[data-bs-theme="dark"] .bg-color-custom {
+    background-color: var(--bg-color-custom--dark);
+}
+
+[data-bs-theme="light"] .bg-color-custom {
+    background-color: var(--bg-color-custom--light);
+}
+
+.h-50vh {
+    height: 50vh;
+}
+
+.bg-purple-300 {
+    background-color: #6f42c1
+}
+
+.bg-extra-300 {
+    background-color: #e9b1aa !important
+}
+
+.bg-xinspire-300 {
+    background-color: #3dbab8 !important
 }

@@ -23,4 +23,13 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="8.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ViewModels\Notification\" />
+    <Folder Include="ViewModels\Answer\" />
+    <Folder Include="ViewModels\Result\" />
+    <Folder Include="ViewModels\Role\" />
+    <Folder Include="ViewModels\Chapter\" />
+    <Folder Include="ViewModels\Subject\" />
+  </ItemGroup>
+
 </Project>

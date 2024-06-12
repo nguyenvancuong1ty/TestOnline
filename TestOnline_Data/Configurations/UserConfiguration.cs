@@ -8,9 +8,8 @@ namespace TestOnline_Data.Configurations
     {
         public void Configure(EntityTypeBuilder<User> builder)
         {
-            builder.ToTable("User").HasKey("Id");
+            builder.ToTable("User").HasKey(u => u.Id);
             builder.Property(u => u.Id).HasMaxLength(256);
-            builder.HasMany(u => u.Exams).WithOne(u => u.User).HasForeignKey(ex => ex.CreatedUserId);
         }
     }
 }

@@ -1,0 +1,16 @@
+E:\Dotnet-vs\TestOnline\Application\bin\Debug\net8.0\Application.deps.json
+E:\Dotnet-vs\TestOnline\Application\bin\Debug\net8.0\Application.dll
+E:\Dotnet-vs\TestOnline\Application\bin\Debug\net8.0\Application.pdb
+E:\Dotnet-vs\TestOnline\Application\bin\Debug\net8.0\TestOnline_Data.dll
+E:\Dotnet-vs\TestOnline\Application\bin\Debug\net8.0\TestOnline_Data.pdb
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Application.sourcelink.json
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Application.dll
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\Application.pdb
+E:\Dotnet-vs\TestOnline\Application\obj\Debug\net8.0\ref\Application.dll

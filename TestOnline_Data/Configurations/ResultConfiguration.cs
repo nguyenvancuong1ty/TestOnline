@@ -9,8 +9,9 @@ namespace TestOnline_Data.Configurations
         public void Configure(EntityTypeBuilder<Result> builder)
         {
             builder.HasKey(e => e.Id);
-            builder.HasOne(e => e.User).WithMany(e => e.Results).HasForeignKey(e => e.UserId);
-            builder.HasOne(e => e.Exam).WithMany(e => e.Results).HasForeignKey(e => e.ExamId);
+            builder.Property(u => u.Id).HasMaxLength(256);
+            builder.HasOne(e => e.User).WithMany(e => e.Results).HasForeignKey(e => e.UserId).OnDelete(DeleteBehavior.Restrict); ;
+            builder.HasOne(e => e.Exam).WithMany(e => e.Results).HasForeignKey(e => e.ExamId).OnDelete(DeleteBehavior.Restrict); ;
         }
     }
 }
